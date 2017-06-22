@@ -1,0 +1,31 @@
+body {
+  background-color: #000;
+  color: #ddd;
+  padding-top: 10%;
+}
+
+.container {
+  /*border: 1px solid #fff;*/
+  margin: auto;
+  height: 100%;
+  max-width: 800px;
+}
+
+#quote {
+  font-size: 300%;
+}
+
+#quote.long {
+  font-size: 200%;
+}
+
+#author {
+  font-style: italic;
+  font-size: 150%;
+  text-align: right;
+}
+
+#btn-group {
+  display: block;
+  text-align: center;
+}
